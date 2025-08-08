@@ -2,6 +2,9 @@
 
 A modern, feature-rich Flutter application for browsing and exploring products. Built with Material Design 3 and following Flutter best practices.
 
+## Video Demo
+https://drive.google.com/file/d/1B0Pp1ivtxKW-I125HP75VE0ncp0TgZ1s/view?usp=sharing 
+
 ## Features
 
 The app includes:
