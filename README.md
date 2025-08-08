@@ -52,6 +52,7 @@ lib/
 ├── services/
 │   └── product_service.dart  # API service
 ├── screens/
+│   ├── fullscreen_image_screen.dart    # Product image view
 │   ├── product_list_screen.dart    # Main product listing
 │   └── product_detail_screen.dart  # Product details
 └── widgets/
